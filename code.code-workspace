@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../code"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.rmd": "markdown",
+			"iostream": "cpp"
+		}
+	}
+}
